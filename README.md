@@ -8,7 +8,7 @@ The full implementation is provided in a single Jupyter Notebook: `CNN.ipynb`.
 
 ## 📌 Overview
 
-- Build a CNN model باستخدام PyTorch
+- Build a CNN model using PyTorch
 - Train the model on MNIST dataset
 - Evaluate model performance
 - Visualize predictions
